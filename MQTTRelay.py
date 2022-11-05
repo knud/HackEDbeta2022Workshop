@@ -23,7 +23,7 @@ my_canvas.create_image(0, 0, image=hebimage, anchor=("nw"))
 #
 # Connect to the Adafruit MQTT server
 #
-ADAFRUIT_IO_KEY = 'aio_mzky28KTzPo89fjAoNHhoFZkNNxi'
+ADAFRUIT_IO_KEY = 'aio_thAA80ibSIMlGmAmN8HiMIu8fOZU'
 ADAFRUIT_IO_USERNAME = 'eeknud'
 
 aio = Client(ADAFRUIT_IO_USERNAME, ADAFRUIT_IO_KEY) 
